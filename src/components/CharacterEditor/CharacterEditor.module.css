@@ -42,11 +42,6 @@
   top: 128px;
 }
 
-.characterWrapper svg {
-  height: 100%;
-  width: 100%;
-}
-
 .controlColumn {
   width: 50%;
   isolation: isolate;
